@@ -1,11 +1,60 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!--<link rel="stylesheet" type="text/css" href="css/index.css" />-->
-        <title>Hybrid App Testing</title>
+        <title>Traffic Monitor</title>
+        <link href='kendoui.2014.3.1316/styles/kendo.mobile.all.min.css' rel='stylesheet' />
+        <link href='css/traffic.css' rel='stylesheet' />
     </head>
     <body>
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-    </body>
+        <!--  Setup Mobile App Kendo Layouts here -->
+        <div data-role='layout' data-id='default'>
+            <header data-role='header'>
+                <div data-role='navbar'>
+                    <span data-role='view-title'></span>
+                </div>
+            </header>
+            <div data-role='footer'>
+                <div data-role='tabstrip' id='tabstrip'>
+                    <a href='#reference' data-icon='home'>Home</a>
+                    <a href='#directory' data-icon='contacts'>Directory</a>
+                    <a href='views/tools.html' data-icon='share'>Tools</a>
+                    <a href='#settings' data-icon='settings'>Settings</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Home Screen -->
+        <div data-role='view' id='reference' data-layout='default' data-title='Home' data-after-show='afterHomeShow'>
+                <ul data-role='listview' data-style='inset' id='section1'>
+                    <li><a href='tel:8002854472' data-rel='external' class='office-phones'>800-285-4472</a></li>
+                    <li><a href='tel:5029680341' data-rel='external' class='office-phones'>502-968-0341</a></li>
+                </ul>
+            <ul data-role='listview' data-style='inset' data-type='group'>
+                <li>Reference
+                    <ul data-role='listview'>
+                        <li><a href='views/hotelandgateways.html' data-transition='none'>Hotel / Gateway Info</a></li>
+                        <li><a href='views/staff.html' data-transition='none'>IPA Staff Directory</a></li>
+                        <li><a href='views/upsdir.html' data-transition='none'>UPS Directory</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- End Home Screen-->
+        
+<script src='kendoui.2014.3.1316/js/jquery.min.js'></script>
+<script src='kendoui.2014.3.1316/js/kendo.mobile.min.js'></script>
+<script src='cordova.js'></script>
+<script src='js/index.js'></script>
+<script>
+    // Make sure the device is ready for PhoneGap stuff
+        function onDeviceReady() {
+            var kendoapp = new kendo.mobile.Application($(document.body), {
+                statusBarStyle: 'black-translucent',
+                platform: 'ios7' });
+            //alert('The Device is Ready!');
+                $.ajaxSetup({ cache: false });
+        }
+        document.addEventListener('deviceready', onDeviceReady(), false);
+</script>
+</body>
 </html>
