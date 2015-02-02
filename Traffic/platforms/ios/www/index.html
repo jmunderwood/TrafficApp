@@ -16,30 +16,29 @@
             <div data-role='footer'>
                 <div data-role='tabstrip' id='tabstrip'>
                     <a href='#main' data-icon='home'>Home</a>
-                    <a href='#cams' data-icon='contacts'>Cams</a>
-                    <a href='#settings' data-icon='settings'>Settings</a>
+                    <a href='views/cams.html' data-icon='camera'>Cams</a>
+                    <a href='views/settings.html' data-icon='settings'>Settings</a>
                 </div>
             </div>
         </div>
-        
-        <!-- Home Screen -->
-        <div data-role='view' id='main' data-layout='default' data-title='Home' data-after-show='afterHomeShow'>
-                <ul data-role='listview' data-style='inset' id='section1'>
-                    <li><a href='tel:8002854472' data-rel='external' class='office-phones'>800-285-4472</a></li>
-                    <li><a href='tel:5029680341' data-rel='external' class='office-phones'>502-968-0341</a></li>
-                </ul>
-            <ul data-role='listview' data-style='inset' data-type='group'>
-                <li>Reference
-                    <ul data-role='listview'>
-                        <li><a href='views/hotelandgateways.html' data-transition='none'>Hotel / Gateway Info</a></li>
-                        <li><a href='views/staff.html' data-transition='none'>IPA Staff Directory</a></li>
-                        <li><a href='views/upsdir.html' data-transition='none'>UPS Directory</a></li>
-                    </ul>
-                </li>
+
+<!-- Home View -->
+<div data-role='view' id='main' data-layout='default' data-title='Home'>
+    <ul data-role='listview' data-style='inset'>
+        <li><a href='tel:8002854472' data-rel='external' class='office-phones'>800-285-4472</a></li>
+        <li><a href='tel:5029680341' data-rel='external' class='office-phones'>502-968-0341</a></li>
+    </ul>
+    <ul data-role='listview' data-style='inset' data-type='group'>
+        <li>Division
+            <ul data-role='listview'>
+                <li><a href=''>Item 1</a></li>
+                <li><a href=''>Item 2</a></li>
             </ul>
-        </div>
-        <!-- End Home Screen-->
-        
+        </li>
+    </ul>
+</div>
+<!-- End Home View-->
+
 <script src='kendoui.2014.3.1316/js/jquery.min.js'></script>
 <script src='kendoui.2014.3.1316/js/kendo.mobile.min.js'></script>
 <script src='cordova.js'></script>
@@ -50,9 +49,12 @@
             var kendoapp = new kendo.mobile.Application($(document.body), {
                 statusBarStyle: 'black-translucent',
                 platform: 'ios7' });
-            //alert('The Device is Ready!');
-                $.ajaxSetup({ cache: false });
+
+            $.ajaxSetup({ cache: false });
+            document.addEventListener("online", wentonline, false);
+            document.addEventListener("offline", wentoffline, false);
         }
+
         document.addEventListener('deviceready', onDeviceReady(), false);
 </script>
 </body>
