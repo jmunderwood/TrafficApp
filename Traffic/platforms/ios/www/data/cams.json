@@ -1,0 +1,674 @@
+[
+	{
+	"title": "CCTV001.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV001.jpg",
+	"location": "I-65 at Crittenden Drive.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV002.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV002.jpg",
+	"location": "I-65 at Arthur Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV003.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV003.jpg",
+	"location": "I-65 at St Catherine Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV004.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV004.jpg",
+	"location": "I-65 at Liberty Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV005.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV005.jpg",
+	"location": "I-65 at Kennedy Bridge.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV006.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV006.jpg",
+	"location": "I-64 at Adams Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV007.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV007.jpg",
+	"location": "Cam-007.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV008.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV008.jpg",
+	"location": "Cam-008.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV009.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV009.jpg",
+	"location": "I-65 at the Fairgrounds.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV010.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV010.jpg",
+	"location": "I-65 at I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV011.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV011.jpg",
+	"location": "I-264 at Freedom Way.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV012.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV012.jpg",
+	"location": "I-264 at Newburg Road.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV013.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV013.jpg",
+	"location": "I-65 at Fern Valley Road.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV014.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV014.jpg",
+	"location": "I-64 at I-265 (Indiana).",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV015.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV015.jpg",
+	"location": "Cam-015.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV016.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV016.jpg",
+	"location": "I-64 at I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV017.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV017.jpg",
+	"location": "I-64 at 9th Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV018.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV018.jpg",
+	"location": "I-64 Near 3rd Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV019.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV019.jpg",
+	"location": "I-64 at Story Ave.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV020.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV020.jpg",
+	"location": "I-64 at Grinstead Drive.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV021.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV021.jpg",
+	"location": "I-64 at 22nd Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV022.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV022.jpg",
+	"location": "Cam-022.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV023.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV023.jpg",
+	"location": "I-71 at Indian Hills.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV024.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV024.jpg",
+	"location": "Trimarc Base",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV025.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV025.jpg",
+	"location": "Cam-025.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV026.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV026.jpg",
+	"location": "Cam-026.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV027.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV027.jpg",
+	"location": "I-64 at I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV028.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV028.jpg",
+	"location": "I-64 East of 22nd Street.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV029.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV029.jpg",
+	"location": "I-64 at I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV030.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV030.jpg",
+	"location": "I-64 at Oxmoor Farm.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV031.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV031.jpg",
+	"location": "I-64 at Hurstbourne.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV032.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV032.jpg",
+	"location": "Cam-032.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV033.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV033.jpg",
+	"location": "Cam-033.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV034.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV034.jpg",
+	"location": "Cam-034.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV035.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV035.jpg",
+	"location": "Cam-035.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV036.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV036.jpg",
+	"location": "I-264 at Taylor Boulevard.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV037.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV037.jpg",
+	"location": "I-264 at Poplar Level.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV038.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV038.jpg",
+	"location": "I-264 at I-71.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV039.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV039.jpg",
+	"location": "I-71 at I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV040.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV040.jpg",
+	"location": "I-71 North of I-264.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	
+	{
+	"title": "CCTV041.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV041.jpg",
+	"location": "I-64 At Alta Vista.",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV042.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV042.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV043.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV043.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV044.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV044.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV045.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV045.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV046.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV046.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV047.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV047.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV048.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV048.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV049.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV049.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV050.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV050.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV051.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV051.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV052.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV052.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV053.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV053.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV054.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV054.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV055.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV055.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV056.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV056.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV057.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV057.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV058.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV058.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV059.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV059.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV060.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV060.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV061.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV061.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV061.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV061.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV062.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV062.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV063.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV063.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV064.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV064.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV065.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV065.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV066.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV066.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV067.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV067.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV068.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV068.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV069.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV069.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+
+	{
+	"title": "CCTV070.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV070.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV071.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV071.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV072.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV072.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV073.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV073.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV074.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV074.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV075.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV075.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV076.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV076.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV077.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV077.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV078.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV078.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV079.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV079.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV080.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV080.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV081.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV082.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV082.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV082.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV083.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV083.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV084.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV084.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	},
+	{
+	"title": "CCTV085.jpg",
+	"path": "http://www.trimarc.org/images/snapshots/CCTV085.jpg",
+	"location": "",
+	"latitude": "lat value",
+	"longitude": "long value"
+	}
+]
