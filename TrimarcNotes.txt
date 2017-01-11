@@ -1,0 +1,41 @@
+http://metrotraffic.org/LocalTraffic/Louisville/
+
+http://api.cctraffic.net/feeds/List.aspx?key=TTNcom&id=7&type=construction&max=0
+http://api.cctraffic.net/feeds/List.aspx?key=TTNcom&id=7&type=incident&max=0
+http://api.cctraffic.net/feeds/Map.aspx?key=TTNcom&ID=7&bypass=1
+http://api.cctraffic.net/feeds/List.aspx?key=TTNcom&id=7&type=route
+http://api.cctraffic.net/feeds/map/TrafficList.aspx?key=TTNcom&type=&id=7
+
+
+http://www.trimarc.org/dat/
+NKY_speed_data.xml
+NKY_device_config.xml
+indot_dms.json
+indot_cctv.json
+WebTraveltimes.dat
+WebSigns.json
+WebSigns.dat
+WebIncidents.json
+WebIncidents.dat
+WebIncidentCount.dat
+TRIMARCSensorData.txt
+
+
+http://trimarc.org/site/javascript/reloadImages.js
+function reloadImages() {
+  if($("#cameraOverlayImage").attr("src")) {
+    var src = $("#cameraOverlayImage").attr("src");
+    src = src.substring(0, src.indexOf('.jpg') + '.jpg'.length);
+    src += '?' + new Date().getMilliseconds();
+    $("#cameraOverlayImage").attr("src", src);;
+  }
+  
+  setTimeout(function(){reloadImages()},10000);
+}
+
+setTimeout(function(){reloadImages()},10000);
+
+
+<img id='cameraOverlayImage' style='width: 100%;' src='http://www.trimarc.org/images/snapshots/CCTV008.jpg?577' />
+
+
